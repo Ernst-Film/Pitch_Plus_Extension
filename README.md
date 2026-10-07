@@ -7,7 +7,7 @@ Chrome Browser Extension for Pitch.com by LK
 ## Installation
 
 1. Download the extension release:  
-   [Pitch Previs Extension v0.2.0](https://github.com/Ernst-Film/Pitch_Previs_Extension/releases/tag/v0.2.0)
+   [Pitch Plus Extension v0.3.0]([https://github.com/Ernst-Film/Pitch_Plus_Extension/releases/tag/v0.3.0])
 2. Depending on your operating system, the downloaded file may be extracted automatically. If not, extract it manually. The resulting folder should be named **extension**.
 3. Rename the **extension** folder to **Pitch_Plus**.
 4. Click the three-dot menu (**⋮**) in the upper-right corner of your browser.
